@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "BikeHUD_Icon_Blue.png",
+      "filename" : "BikeHUD_Icon1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +13,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "BikeHUD_Icon_Dark (1).png",
+      "filename" : "BikeHUD_Icon2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
